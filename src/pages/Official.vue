@@ -42,7 +42,7 @@
         <div class="part3-container">
           <img src="../assets/img/part3-logo.png" alt="part3-logo" class="part3-logo"/>
           <div class="text1 tips1">
-            <p>ANYTIME,ANYWHERE</p>
+            <p>ANYTIME,  ANYWHERE</p>
           </div>
           <div class="text2 tips2">
             <p>Cross Chains, Conveninet and Decentralizad,All in Here</p>
