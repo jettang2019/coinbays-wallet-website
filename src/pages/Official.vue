@@ -105,11 +105,11 @@
   background: #12171b;
 
   .logo {
-    width: 179.44px;
-    height: 50.53px;
+    width: 235.44px;
+    //height: 50.53px;
     position: absolute;
     top: 29px;
-    left: 30px;
+    left: 140px;
     z-index: 2;
   }
 
@@ -138,7 +138,7 @@
       position: absolute;
       width: 365px;
       top: 20%;
-      left: 20px;
+      left: 140px;
 
       .text1 {
         margin: 0 auto;
@@ -173,7 +173,7 @@
       width: 260px;
       margin: 0 auto;
       position: absolute;
-      right: 30%;
+      right: 22%;
       top: 45px;
 
       img {
