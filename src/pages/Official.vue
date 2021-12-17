@@ -226,7 +226,6 @@
       .icon-pg-container img {
         margin-top: 20px;
         width: 118px;
-        border: 1px dotted #1F335E;
         margin-right: 8px;
         margin-left: 8px;
       }
@@ -249,7 +248,6 @@
     .part3-container .part3-logo {
       width: 188px;
       height: 280px;
-      border: 1px dotted #313131;
       position: absolute;
       top: 45px;
       left: 145px;
@@ -299,7 +297,6 @@
       margin: 0 auto;
       width: 338px;
       height: 241px;
-      border: 1px dotted #313131;
       position: absolute;
       bottom: 65px;
     }
