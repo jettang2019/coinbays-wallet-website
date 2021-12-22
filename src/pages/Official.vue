@@ -16,7 +16,7 @@
             <p>Join 10 million+ people using coinbays Wallet</p>
           </div>
           <div class="download-container">
-            <img src="../assets/img/android-download.png" alt="android" class="android">
+            <a href="https://www.coinbays.com/download/coinbays-wallet-v100.apk"><img src="../assets/img/android-download.png" alt="android" class="android"></a>
             <img src="../assets/img/ios-download.png" alt="ios" class="ios">
           </div>
         </div>
