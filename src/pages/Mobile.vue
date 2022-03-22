@@ -137,7 +137,7 @@ onMounted(() => {
         </div>
         <div class="download-container">
           <img src="../assets/img/ios-download.png" alt="ios" class="ios">
-          <a href="https://www.coinbays.com/download/coinbays-wallet-v100.apk"><img src="../assets/img/android-download.png" alt="android" class="android"></a>
+          <a href="https://wallet.coinbays.com/download/coinbays-wallet-v100.apk"><img src="../assets/img/android-download.png" alt="android" class="android"></a>
         </div>
         <div class="tips-box">
           <p>Copyright &copy; 2021 Coinbays Ltd.</p>
